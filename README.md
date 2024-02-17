@@ -21,3 +21,5 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+##Credits:
+Javascript, HTML, and CSS code was found [here](https://www.geeksforgeeks.org/build-a-password-generator-app-with-html-css-and-javascript/)
