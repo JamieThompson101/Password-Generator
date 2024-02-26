@@ -1,4 +1,8 @@
 # Password-Generator
+Motivations and what I learned:
+1. To hone my skills with JavaScript
+2. To better understand how JavaScript can add interactivity to websites
+3. To add this new website to my portfolio
 
 User story:
 AS AN employee with access to sensitive data
@@ -21,5 +25,8 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
 ##Credits:
 Javascript, HTML, and CSS code was found [here](https://www.geeksforgeeks.org/build-a-password-generator-app-with-html-css-and-javascript/)
+
+![passwordgenerator](https://github.com/JamieThompson101/Password-Generator/assets/130515437/6371bf4c-b43b-4b5e-a07a-0088f360f48a)
